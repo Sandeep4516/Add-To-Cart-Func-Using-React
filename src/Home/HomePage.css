@@ -1,0 +1,28 @@
+#HomePageBody{
+    background-color: rgb(84, 83, 83);
+}
+
+#cartItems .card{
+    
+    background-color: aliceblue;
+    height: 100%;
+}
+
+.AddCartButtton{
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgb(195, 155, 234);
+    color: white;
+    font-weight: bold;
+    font-size: 12;
+    padding: 2px;
+}
+
+#AllItems{
+    padding: 10px 15px;
+    
+}
+#AllItems img{
+    width: 200px;
+    height: 200px;
+}
